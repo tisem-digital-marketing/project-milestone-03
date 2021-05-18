@@ -24,17 +24,68 @@ Your most recent commit that is on the `main` branch before the due date will be
 
 1. Clone the repository to your machine.
 2. Update the meta-information above.
-3. Modify the script `data/download_data.R` so that it downloads the data you use for the this milestone from the internet.
-<!-- 4. Complete the the milestone using `milestone-02.Rmd`
-  * Use the template "as-is", do not modify headings, fonts, font-sizes etc.
-  * **The word limit is 600 words**. This is an upper bound, you can do it in less and are encouraged to.
-5. Upload the completed Rmd file and the **pdf** output before the deadline. -->
-  
+3. Work through the sections below to complete the project.
+4. Limits:
+    * Word Limit in report.Rmd: 2500 words
+    * Time Limit for presentation: 6 minutes
+
+### Data Availability
+
+* As with Milestone 2, we want access to your data.
+* Update the file `data/download_data.R` so that we can download your data to our computer and run your code.
+
 ### Code
+
+We want to see the underlying statistical code for your project.
+
+1. In the `code/` directory, we have provided three example scripts. Feel free to modify them as needed and add any additional scripts you want to include.
+2. If you add additional scripts, update the section below (Instructions for Graders) so we know the order in which the scripts need to be run.
 
 ### Paper
 
-### Slides
+1. Write your report in the file `docs/report.Rmd` and knit it to a pdf. The pdf **MUST** be uploaded to the GitHub repository before the deadline.
+2. Do not change the section headers, we expect you to keep to that template.
+
+Some tips:
+
+The example text provided shows examples of how to
+
+* Include a figure
+* Make a (regression) table from saved results
+
+Use these examples for your own work.
+If you want to do something fancier, you can work with fellow students and (occasionally instructors) in the Slack Channel #milestone-03. 
+
+### Slides & Video
+
+1. Write your slides in the file `docs/slides.Rmd` and knit it to a pdf. The pdf **MUST** be uploaded to the GitHub repository before the deadline.
+2. Do not change the section headers, we expect you to keep to that template.
+3. Record a presentation of a maximum 6 minutes using these slides.
+   Upload the presentation [here](https://forms.gle/tJ12bSoNKwQPMPb7A) before the deadline
+
+Some tips:
+
+The example text provided shows examples of how to
+
+* Include a figure
+* Make a (regression) table from saved results
+
+Use these examples for your own work.
+If you want to do something fancier, you can work with fellow students and (occasionally instructors) in the Slack Channel #milestone-03. 
+
+**You must upload the accompanying presentation [here](https://forms.gle/tJ12bSoNKwQPMPb7A) before the deadline**
+
+## Instructions for Graders
+
+Graders should run the scripts provided in the following order:
+
+1. `data/download_data.R`
+2. `code/data_cleaning.R`
+3. `code/analysis.R`
+4. `code/figures.R`
+5. Knit report and slides
+
+**Note to students**: If you want the grader to deviate from this set of instructions -- you must tell us by modifying the notes above!
 
 ## Template Meta-Information
 
