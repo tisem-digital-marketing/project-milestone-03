@@ -4,6 +4,7 @@
 [![Template Version](https://img.shields.io/badge/version-2021-green.svg)]()
 
 **Milestone 3 of the final project is grade relevant.**
+
 Check the [course syllabus](https://tisem-digital-marketing.github.io/2021-smwa/assets/syllabus.pdf) for more details.
 
 ## Meta-Information 
