@@ -7,7 +7,7 @@
 
 Check the [course syllabus](https://tisem-digital-marketing.github.io/2021-smwa/assets/syllabus.pdf) for more details.
 
-## Meta-Information 
+## Meta-Information
 
 * Name: YOUR_NAME
 * GitHub Handle: YOUR_GH_HANDLE
@@ -15,7 +15,7 @@ Check the [course syllabus](https://tisem-digital-marketing.github.io/2021-smwa/
 
 ## Grading Information
 
-* Due Date: **June 7 at 23:59**
+* Due Date: **June 17 at 23:59**
 
 Submission is via GitHub Classroom.
 Your most recent commit that is on the `main` branch before the due date will be graded.
@@ -26,8 +26,10 @@ Your most recent commit that is on the `main` branch before the due date will be
 2. Update the meta-information above.
 3. Work through the sections below to complete the project.
 4. Limits:
-    * Word Limit in report.Rmd: 2500 words
-    * Time Limit for presentation: 6 minutes
+   * Word Limit in report.Rmd: 2500 words
+   * Time Limit for presentation: 6 minutes
+
+
 
 ### Data Availability
 
@@ -89,11 +91,11 @@ Graders should run the scripts provided in the following order:
 
 ## Template Meta-Information
 
-*   Template Maintainer: Lachlan Deer (`@lachlandeer`)
-*   Course: [Social Media and Web Analytics](https://github.com/tisem-digital-marketing)
-*   Institute: [Dept of Marketing, TiSEM](https://www.tilburguniversity.edu/about/schools/economics-and-management/organization/departments/marketing)
-*   Template Link: [click here](https://github.com/tisem-digital-marketing/project-milestone-03)
-*   Current Version: [Spring 2021](https://tisem-digital-marketing.github.io/2021-smwa/)
+* Template Maintainer: Lachlan Deer (`@lachlandeer`)
+* Course: [Social Media and Web Analytics](https://github.com/tisem-digital-marketing)
+* Institute: [Dept of Marketing, TiSEM](https://www.tilburguniversity.edu/about/schools/economics-and-management/organization/departments/marketing)
+* Template Link: [click here](https://github.com/tisem-digital-marketing/project-milestone-03)
+* Current Version: [Spring 2021](https://tisem-digital-marketing.github.io/2021-smwa/)
 
 ### Suggested Citation
 
