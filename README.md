@@ -15,7 +15,7 @@ Check the [course syllabus](https://tisem-digital-marketing.github.io/2021-smwa/
 
 ## Grading Information
 
-* Due Date: **June 17 at 23:59**
+* Due Date: **June 18 at 23:59**
 
 Submission is via GitHub Classroom.
 Your most recent commit that is on the `main` branch before the due date will be graded.
