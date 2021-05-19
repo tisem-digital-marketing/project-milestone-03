@@ -29,7 +29,7 @@ Your most recent commit that is on the `main` branch before the due date will be
    * Word Limit in report.Rmd: 2500 words
    * Time Limit for presentation: 6 minutes
 
-
+**NOTE: Instructors are available for consultation until June 4th, 2021. From June 5th onwards, instructors will not have consultation hours, and will not regularly check the Slack Discussion forum.**
 
 ### Data Availability
 
@@ -52,8 +52,8 @@ Some tips:
 
 The example text provided shows examples of how to
 
-* Include a figure
-* Make a (regression) table from saved results
+* Include a figure in the report
+* Make a (regression) table from saved results and include it in the report
 
 Use these examples for your own work.
 If you want to do something fancier, you can work with fellow students and (occasionally instructors) in the Slack Channel #milestone-03. 
