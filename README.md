@@ -75,7 +75,7 @@ The example text provided shows examples of how to
 Use these examples for your own work.
 If you want to do something fancier, you can work with fellow students and (occasionally instructors) in the Slack Channel #milestone-03. 
 
-**You must upload the accompanying presentation [here](https://forms.gle/tJ12bSoNKwQPMPb7A) before the deadline**
+**You must upload the accompanying presentation [here](https://forms.gle/tJ12bSoNKwQPMPb7A) before the deadline. Follow the instructions on the upload page to name the file correctly**
 
 ## Instructions for Graders
 
